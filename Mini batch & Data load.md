@@ -2,9 +2,6 @@
 
 ## (1) 미니 배치와 배치 크기 (Mini Batch and Batch Size)
 
-앞서 배운 다중 선형 회귀에서 사용했던 데이터를 상기해봅시다.
-
-
 ```python
 import torch
 import torch.nn as nn
