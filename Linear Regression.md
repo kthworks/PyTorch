@@ -71,7 +71,7 @@ print(hypothesis)
 
 ### 5. Cost function 선언하기
 
-$cost(W,b) = \frac{1}{n} [\sum^{n}_{i=1}(y^{(i)}-H(x^{(i)})]^{2}$
+$$cost(W,b) = \frac{1}{n} [\sum^{n}_{i=1}(y^{(i)}-H(x^{(i)})]^{2}$$
 
 
 ```python
@@ -185,7 +185,7 @@ for epoch in range(nb_epochs + 1):
 
 ## (2) 자동 미분 (Autograd) 실습하기
 
-자동 미분을 실습을 통해 이해해보자. 임의로 $2w^2+5$ 라는 식을 세워보고, w에 대해 미분해보자.
+자동 미분을 실습을 통해 이해해보자. 임의로 $$2w^2+5$$ 라는 식을 세워보고, w에 대해 미분해보자.
 
 
 ```python
