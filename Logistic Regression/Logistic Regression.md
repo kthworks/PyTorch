@@ -38,7 +38,7 @@ plt.show()
 ```
 
 
-![png](/Logistic Regression/output_3_0.png)
+![png](output_3_0.png)
 
 
 
@@ -59,7 +59,7 @@ plt.show()
 ```
 
 
-![png](/Logistic Regression/output_4_0.png)
+![png](output_4_0.png)
 
 
 ## Cost function
@@ -102,7 +102,7 @@ plt.show()
     
 
 
-![png](/Logistic Regression/output_6_1.png)
+![png](output_6_1.png)
 
 
 ## 파이토치로 Logistic Regression 구현하기
